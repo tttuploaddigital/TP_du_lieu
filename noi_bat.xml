@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<danh_muc_san_pham>
+<danh_sach>
 	<san_pham>
 		<ten>máy khoan cầm tay hp1630</ten>
 		<ma>may-khoan-cam-tay-hp1630</ma>
 		<loai>máy khoan cầm tay</loai>
 		<hang>makita</hang>
-		<thong_so></thong_so>
-		<mo_ta></mo_ta>
+		<thong_so>aergdgbhisdroigio</thong_so>
+		<mo_ta>1234234 345265</mo_ta>
 		<hinh>http://www.hungsy.com.vn/images/resized/uploads/cms/hung-sy-1435078084-300-250-A.jpg</hinh>
 	</san_pham>
 	<san_pham>
@@ -14,26 +14,26 @@
 		<ma>may-khoan-be-tong-2-26-dre</ma>
 		<loai>máy khoan bê tông</loai>
 		<hang>bosch</hang>
-		<thong_so></thong_so>
-		<mo_ta></mo_ta>
+		<thong_so>346u09u9vz</thong_so>
+		<mo_ta>euu465543gvfdyh</mo_ta>
+		<hinh>http://www.hungsy.com.vn/images/resized/uploads/cms/hung-sy-1443459003-300-250-A.jpg</hinh>
+	</san_pham>
+	<san_pham>
+		<ten>aaa bbb ccc</ten>
+		<ma>aaa-bbb-ccc</ma>
+		<loai>máy khoan bê tông</loai>
+		<hang>bosch</hang>
+		<thong_so>chàgkoshseti5</thong_so>
+		<mo_ta>grfslkgjoirj</mo_ta>
 		<hinh>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh>
 	</san_pham>
 	<san_pham>
-		<ten>máy khoan bê tông 2-26DRE</ten>
-		<ma>may-khoan-be-tong-2-26-dre</ma>
-		<loai>máy khoan bê tông</loai>
+		<ten>111 222 333</ten>
+		<ma>111-222-333</ma>
+		<loai>máy khoan cầm tay</loai>
 		<hang>bosch</hang>
-		<thong_so></thong_so>
-		<mo_ta></mo_ta>
+		<thong_so>oihsdrfgiogh9oiersy</thong_so>
+		<mo_ta>u ú á â trên trời</mo_ta>
 		<hinh>https://comicbookroundup.com/img/covers/c/crossed-plus-100-mimic/1_medium.jpg</hinh>
 	</san_pham>
-	<san_pham>
-		<ten>máy khoan bê tông 2-26DRE</ten>
-		<ma>may-khoan-be-tong-2-26-dre</ma>
-		<loai>máy khoan bê tông</loai>
-		<hang>bosch</hang>
-		<thong_so></thong_so>
-		<mo_ta></mo_ta>
-		<hinh>http://www.hungsy.com.vn/images/resized/uploads/cms/hung-sy-1443459003-300-250-A.jpg</hinh>
-	</san_pham>
-</danh_muc_san_pham>
+</danh_sach>
