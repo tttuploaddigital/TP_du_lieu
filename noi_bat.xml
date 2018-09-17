@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danh_muc_san_pham>
+	<san_pham>
+		<ten>máy khoan cầm tay hp1630</ten>
+		<loai>máy khoan cầm tay</loai>
+		<hang>makita</hang>
+		<thong_so></thong_so>
+		<mo_ta></mo_ta>
+		<hinh></hinh>
+	</san_pham>
+	<san_pham>
+		<ten>máy khoan bê tông 2-26DRE</ten>
+		<loai>máy khoan bê tông</loai>
+		<hang>bosch</hang>
+		<thong_so></thong_so>
+		<mo_ta></mo_ta>
+		<hinh></hinh>
+	</san_pham>
+</danh_muc_san_pham>
