@@ -2,6 +2,7 @@
 <danh_muc_san_pham>
 	<san_pham>
 		<ten>máy khoan cầm tay hp1630</ten>
+		<ma>may-khoan-cam-tay-hp1630</ma>
 		<loai>máy khoan cầm tay</loai>
 		<hang>makita</hang>
 		<thong_so></thong_so>
@@ -10,6 +11,7 @@
 	</san_pham>
 	<san_pham>
 		<ten>máy khoan bê tông 2-26DRE</ten>
+		<ma>may-khoan-be-tong-2-26-dre</ma>
 		<loai>máy khoan bê tông</loai>
 		<hang>bosch</hang>
 		<thong_so></thong_so>
