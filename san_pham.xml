@@ -3,9 +3,9 @@
 	<san_pham>
 		<ten>máy khoan cầm tay hp1630</ten>
 		<ma_ten>may-khoan-cam-tay-hp1630</ma_ten>
-		<kieu>máy khoan cầm tay</kieu>
-		<ma_kieu>may-khoan-cam-tay</hang>
-		<hang>makita</thuong_hieu>
+		<loai>máy khoan cầm tay</loai>
+		<ma_loai>may-khoan-cam-tay</ma_loai>
+		<hang>makita</hang>
 		<thong_so>aergdgbhisdroigio</thong_so>
 		<mo_ta>1234234 345265</mo_ta>
 		<hinh>http://www.hungsy.com.vn/images/resized/uploads/cms/hung-sy-1435078084-300-250-A.jpg</hinh>
@@ -13,8 +13,8 @@
 	<san_pham>
 		<ten>máy khoan bê tông 2-26DRE</ten>
 		<ma>may-khoan-be-tong-2-26-dre</ma>
-		<kieu>máy khoan bê tông</kieu>
-		<ma_kieu>may-khoan-be-tong</ma_kieu>
+		<loai>máy khoan bê tông</loai>
+		<ma_loai>may-khoan-be-tong</ma_loai>
 		<hang>bosch</hang>
 		<thong_so>346u09u9vz</thong_so>
 		<mo_ta>euu465543gvfdyh</mo_ta>
@@ -23,8 +23,8 @@
 	<san_pham>
 		<ten>aaa bbb ccc</ten>
 		<ma>aaa-bbb-ccc</ma>
-		<kieu>máy khoan bê tông</kieu>
-		<ma_kieu>may-khoan-be-tong</ma_kieu>
+		<loai>máy khoan bê tông</loai>
+		<ma_loai>may-khoan-be-tong</ma_loai>
 		<hang>bosch</hang>
 		<thong_so>chàgkoshseti5</thong_so>
 		<mo_ta>grfslkgjoirj</mo_ta>
@@ -33,8 +33,8 @@
 	<san_pham>
 		<ten>111 222 333</ten>
 		<ma>111-222-333</ma>
-		<kieu>máy khoan cầm tay</kieu>
-		<ma_kieu>may-khoan-cam-tay</ma_kieu>
+		<loai>máy khoan cầm tay</loai>
+		<ma_loai>may-khoan-cam-tay</ma_loai>
 		<hang>bosch</hang>
 		<thong_so>oihsdrfgiogh9oiersy</thong_so>
 		<mo_ta>u ú á â trên trời</mo_ta>
