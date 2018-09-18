@@ -12,7 +12,7 @@
 	</san_pham>
 	<san_pham>
 		<ten>aaa bbb ccc</ten>
-		<ma>aaa-bbb-ccc</ma>
+		<ma_ten>aaa-bbb-ccc</ma_ten>
 		<loai>máy khoan bê tông</loai>
 		<ma_loai>may-khoan-be-tong</ma_loai>
 		<hang>bosch</hang>
@@ -22,7 +22,7 @@
 	</san_pham>
 	<san_pham>
 		<ten>111 222 333</ten>
-		<ma>111-222-333</ma>
+		<ma_ten>111-222-333</ma_ten>
 		<loai>máy khoan cầm tay</loai>
 		<ma_loai>may-khoan-cam-tay</ma_loai>
 		<hang>bosch</hang>
@@ -32,7 +32,7 @@
 	</san_pham>
 	<san_pham>
 		<ten>máy khoan bê tông 2-26DRE</ten>
-		<ma>may-khoan-be-tong-2-26-dre</ma>
+		<ma_ten>may-khoan-be-tong-2-26-dre</ma_ten>
 		<loai>máy khoan bê tông</loai>
 		<ma_loai>may-khoan-be-tong</ma_loai>
 		<hang>bosch</hang>
